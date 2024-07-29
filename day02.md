@@ -1,5 +1,7 @@
 # Day 2 - Git
 
+This git cheatsheet is based on the [github-git-cheat-sheet](https://training.github.com/downloads/github-git-cheat-sheet/).
+
 ## Branches
 
 Branches are an important part of working with Git. Any commits you make will be made on the branch you're currently "checked out" to. Use `git status` to see which branch that is.
